@@ -39,7 +39,8 @@ Este informe describe el diseño de un sistema de gestión de una biblioteca uni
 <a name="modelo-er"></a>
 ### Modelo ER
 
-![Vista #1](.\media\imgs\ModeloER.png)
+
+![Vista #1](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/ModeloER.png?raw=true)
 
 <a name="usuarios"></a>
 ### Usuarios
@@ -179,54 +180,54 @@ El administrador de Django se ha personalizado para ofrecer una interfaz de usua
 
 1. **Listado de Personal de Biblioteca con Libros Prestados:** La vista muestra la información del personal de biblioteca junto con los libros que tienen prestados y la cantidad acumulada de préstamos realizados.
 
-    ![Vista #1](.\media\imgs\vistas\vista1.png)
+    ![Vista #1](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/vistas/vista1.png?raw=true)
 
 2. **Listado de Usuarios con Libros Prestados y Multas:** Esta vista presenta un listado de usuarios con los libros que tienen prestados y el total acumulado de multas.
 
-    ![Vista #2](.\media\imgs\vistas\vista2.png)
+    ![Vista #2](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/vistas/vista2.png?raw=true)
 
 3. **Listado de Libros Disponibles y Cantidad de Préstamos:** Proporciona un listado de libros disponibles y la cantidad acumulada de préstamos realizados.
 
-    ![Vista #3.0](.\media\imgs\vistas\vista3.0.png)
-    ![Vista #3.1](.\media\imgs\vistas\vista3.1.png)
+    ![Vista #3.0](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/vistas/vista3.0.png?raw=true)
+    ![Vista #3.1](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/vistas/vista3.1.png?raw=true)
 
 4. **Listado de Personal de Biblioteca con Libros y Préstamos Acumulados:** Muestra la información del personal de biblioteca con los libros que tienen y la cantidad acumulada de préstamos realizados.
 
-    ![Vista #4.0](.\media\imgs\vistas\vista4.0.png)
-    ![Vista #4.1](.\media\imgs\vistas\vista4.1.png)
+    ![Vista #4.0](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/vistas/vista4.0.png?raw=true)
+    ![Vista #4.1](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/vistas/vista4.1.png?raw=true)
 
 5. **Listado de Multas Detallado:** Detalla las multas registradas con información sobre la fecha, usuario, libro y valor de la multa.
 
-    ![Vista #5](.\media\imgs\vistas\vista5.png)
+    ![Vista #5](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/vistas/vista5.png?raw=true)
 
 <a name="consultas"></a>
 ### Consultas
 
 1. **Información Completa de Personal de Biblioteca y Libros Prestados:** Muestra la información detallada del personal de biblioteca con datos y la información de los libros que tienen prestados.
 
-    ![Consulta #1](.\media\imgs\consultas\consulta1.png)
+    ![Consulta #1](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta1.png?raw=true)
 
 2. **Información Completa de Usuarios, Libros Prestados y Multas:** Proporciona un listado de usuarios con sus datos y la información de los libros que tienen prestados y las multas acumuladas.
 
-    ![Consulta #2](.\media\imgs\consultas\consulta2.png)
+    ![Consulta #2](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta2.png?raw=true)
 
 3. **Libros Disponibles y Cantidad de Préstamos en un Día Específico:** Detalla un listado de libros disponibles y la cantidad de préstamos realizados en un día específico.
 
-    ![Consulta #3.0](.\media\imgs\consultas\consulta3.0.png)
-    ![Consulta #3.1](.\media\imgs\consultas\consulta3.1.png)
-    ![Consulta #3.2](.\media\imgs\consultas\consulta3.2.png)
-    ![Consulta #3.3](.\media\imgs\consultas\consulta3.3.png)
-    ![Consulta #3.4](.\media\imgs\consultas\consulta3.4.png)
-    ![Consulta #3.5](.\media\imgs\consultas\consulta3.5.png)
+    ![Consulta #3.0](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta3.0.png?raw=true)
+    ![Consulta #3.1](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta3.1.png?raw=true)
+    ![Consulta #3.2](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta3.2.png?raw=true)
+    ![Consulta #3.3](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta3.3.png?raw=true)
+    ![Consulta #3.4](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta3.4.png?raw=true)
+    ![Consulta #3.5](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta3.5.png?raw=true)
 
 4. **Personal de Biblioteca con Libros y Préstamos Acumulados:** Ofrece un listado de personal de biblioteca con los libros que tienen y la cantidad acumulada de préstamos realizados.
 
-    ![Consulta #4.0](.\media\imgs\consultas\consulta4.0.png)
-    ![Consulta #4.1](.\media\imgs\consultas\consulta4.1.png)
+    ![Consulta #4.0](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta4.0.png?raw=true)
+    ![Consulta #4.1](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta4.1.png?raw=true)
 
 5. **Información Completa de Multas:** Detalla un listado de multas registradas con número de usuario, libro, fecha y valor de la multa.
 
-    ![Consulta #5](.\media\imgs\consultas\consulta5.png)
+    ![Consulta #5](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/consultas/consulta5.png?raw=true)
 
 <a name="lógica-de-cambio-de-estados"></a>
 ### Lógica de cambio de estados
