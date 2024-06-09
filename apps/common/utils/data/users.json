@@ -1,0 +1,34 @@
+[
+    {
+        "username": "sebasmd",
+        "email": "sebasmoralesd@gmail.com",
+        "first_name": "sebastian",
+        "last_name": "morales",
+        "password": "juan1999@",
+        "is_superuser": "Yes"
+    },
+    {
+        "username": "juanmd",
+        "email": "juan.sebasm2@gmail.com",
+        "first_name": "juan",
+        "last_name": "delgado",
+        "password": "juan1999@",
+        "is_superuser": "No"
+    },
+    {
+        "username": "test2",
+        "email": "test2@test.com",
+        "first_name": "test",
+        "last_name": "2",
+        "password": "test2@*",
+        "is_superuser": "No"
+    },
+    {
+        "username": "test3",
+        "email": "test3@test.com",
+        "first_name": "test",
+        "last_name": "3",
+        "password": "test3@*",
+        "is_superuser": "No"
+    }
+]
