@@ -5,6 +5,7 @@
   - [Introducción](#introducción)
   - [Funcionalidades Principales](#funcionalidades-principales)
     - [Modelo ER](#modelo-er)
+    - [Consideraciones](#consideraciones)
     - [Usuarios](#usuarios)
       - [Modelo `UserModel`](#modelo-usermodel)
     - [Libros](#libros)
@@ -41,6 +42,13 @@ Este informe describe el diseño de un sistema de gestión de una biblioteca uni
 
 
 ![Vista #1](https://github.com/sebasmd-projects/ucn_dbd_actividad3/blob/master/media/imgs/ModeloER.png?raw=true)
+
+<a name="consideraciones"></a>
+### Consideraciones
+
+- No se tiene en cuenta que haya un stock de libros, solo 1.
+- Se realizan eventos como creación automatica de multas y cambios de estado.
+- Un usuario puede pertenecer al personal de la biblioteca, ser estudiante y/o docente.
 
 <a name="usuarios"></a>
 ### Usuarios
